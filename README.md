@@ -22,6 +22,7 @@ Execute the C Program for the desired output.
 
 ## C program that receives a message from message queue and display them
 
+```
 // msqueue.c - Combined Writer/Reader for System V Message Queue
 #include <stdio.h>
 #include <stdlib.h>
@@ -81,7 +82,7 @@ int main(int argc, char *argv[]) {
 }
 
 
-
+```
 
 ## OUTPUT
 
