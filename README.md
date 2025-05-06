@@ -83,12 +83,9 @@ int main(int argc, char *argv[]) {
 
 
 ```
-
 ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/07211933-e972-4e5b-b6a2-05e70964a10d)
-
-
 
 # RESULT:
 The programs are executed successfully.
